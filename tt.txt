@@ -1,1 +1,15 @@
-Hello world
+
+
+
+1) Task tracker 	2) Spending tracker		3) Productive hour tracker
+
+
+1) Task tracker:
+
+a) User login
+b) See tasks
+c) add tasks
+d) delete tasks
+e) query tasks - time,task_name
+
+
